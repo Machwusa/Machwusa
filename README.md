@@ -3,7 +3,7 @@
 ---
 🧰Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Java logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="Android logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="React logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="React logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql logo" width="50" height="50"/>
 
 
 <!--
